@@ -1,6 +1,6 @@
-# EndpointAPI
+# APIEndpoint
 
-EndpointAPI is a specialized backend service designed to support the Dependency Installer. It acts as a centralized data repository, providing the installer with real-time metadata, download sources, and configuration fixes for critical software dependencies.
+APIEndpoint is a specialized backend service designed to support the Dependency Installer. It acts as a centralized data repository, providing the installer with real-time metadata, download sources, and configuration fixes for critical software dependencies.
 
 ---
 
